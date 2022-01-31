@@ -1,0 +1,21 @@
+1. Extract eprocurement.zip to C://xampp/htdocs folder if youre using xampp
+		     or to C://wampp/www folder if youre using wamp server.
+
+2. Go to http://localhost/phpmyadmin to open database manager.
+	
+3. Navigate to eprocurement database then delete all your tables in that database
+
+4. click on import -> Choose file then navigate to C://xampp/htdocs/eprocurement/db
+   folder and select eprocurement.sql
+
+5. Click go and wait for it to import.
+
+ Users In the System
+
+     ADMIN:
+	ID: 12345678
+	Password: 12345678
+
+     Supplier
+	ID: 12341234
+	Password: 12345678
